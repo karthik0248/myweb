@@ -23,7 +23,7 @@ try{
 
 
 	}
-}
+	}
 
 }catch(error){
   slackSend channel: '#devops-2',
